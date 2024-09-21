@@ -1,6 +1,7 @@
 import React from 'react'
 
 export const Product = () => {
+  // This is Product component
     const productList = [
         { id: 1, product_name: 'Mobile', price: '15000' },
         { id: 2, product_name: 'Headphone', price: '500' },
