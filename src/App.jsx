@@ -7,6 +7,7 @@ import { Contact} from './components/Contact'
 const App = () => {
   return (
     <Router>
+         {/* navbar added */}
          <nav className="navbar navbar-dark bg-dark" 
          style={{ display: 'flex', justifyContent: 'flex-end', margin:'8px', padding: '5px', fontSize: '20px' }}>
         <ul style={{ display: 'flex', listStyleType: 'none', padding: 0 }}>
